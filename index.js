@@ -45,5 +45,5 @@ if( randomNumber1 === randomNumber2 ) {
 else {
     result.innerHTML = (player2 + " " + "LOVES MOST!");
 }
-}, 2500); }
+}, 1500); }
 
